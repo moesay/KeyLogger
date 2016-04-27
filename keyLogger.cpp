@@ -1,3 +1,8 @@
+/*
+coded by : Mohamed El Sayed
+22/4/2016
+*/
+
 #include <iostream>
 #include <Windows.h>
 
